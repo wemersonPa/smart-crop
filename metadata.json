@@ -1,0 +1,5 @@
+{
+  "name": "Crop Cor",
+  "description": "High-precision AI garment extractor that detects clothing and creates perfect 1:1 1024px crops.",
+  "requestFramePermissions": []
+}
